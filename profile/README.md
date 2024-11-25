@@ -1,4 +1,4 @@
-## Hi Buildoor 👋
+## Gm Buildoor 👋 (Say it Back)
 
 Welcome to **LayersOnSoo** – the home for innovative programs built on the SOON blockchain!
 
